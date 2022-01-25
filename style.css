@@ -1,0 +1,17 @@
+/*
+Theme Name: nkays
+Thema URI: 
+Author: Naci KAYSI
+Author URI:
+Description: Special theme for nkays
+Version: 1.0
+Text Domain: nktheme
+*/
+
+body {background: #CCCC;}
+header {background: #fff; width: 100%; height: 120px;}
+footer {background: #222;color: #fff;}
+
+/*menu kısmını oluştururken navigation class ataması yapmıştık. Daha düzenli görünüm için menü düzenledik*/
+.navigation {padding-left:0; list-style:none; padding-top:60px;}
+.navigation li {display: inline; margin-right: 20px;}
