@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fitnsseat Web Sitesi</title>
+    <title>nkays-theme</title>
 
     <?php wp_head(); ?> <!--Bir wordpress web sitesinde olması gereken head kodlarını ekledik footer.php içersinde de var-->
 
