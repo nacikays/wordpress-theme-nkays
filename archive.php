@@ -1,4 +1,4 @@
-<!--Blog yazılarının kategoriye ait içeriklerin listeliğinde sayfa-->
+<!--Blog yazılarının kategoriye ait içeriklerin listeliği sayfa-->
 <?php get_header(); ?>
 
 <div class="container pt-5 pb-5">
